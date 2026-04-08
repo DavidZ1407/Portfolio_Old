@@ -4,6 +4,8 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    margin: 0 auto; 
+    max-width: 1200px;
   }
   
   .about_text {
